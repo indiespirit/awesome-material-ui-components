@@ -12,3 +12,6 @@ List of material ui components for react
 
 ![upload component for material ui](https://github.com/corpix/material-ui-upload/raw/master/screenshot-upload-preview-with-pictures.png)
 ## ⬆️ [Upload](https://github.com/corpix/material-ui-upload)
+
+![super select field for material ui](https://media.giphy.com/media/xT0xeIr8bcJ6wrhcaY/giphy.gif)
+## ✅ [SuperSelectField](https://github.com/Sharlaan/material-ui-superselectfield)
