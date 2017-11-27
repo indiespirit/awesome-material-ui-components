@@ -5,6 +5,8 @@ List of material ui components for react
 ## 🐿 [Chip input](https://github.com/TeamWertarbyte/material-ui-chip-input)
 
 ![password field for material ui](https://github.com/TeamWertarbyte/material-ui-password-field/raw/master/demo.gif)
-## 🔒 [Password Field]()
+## 🔒 [Password Field](https://github.com/TeamWertarbyte/material-ui-password-field)
 
+![fullscreen dialog for material ui](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog/raw/master/demo.gif)
+## 🖥 [Fullscreen Dialog](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog)
 
