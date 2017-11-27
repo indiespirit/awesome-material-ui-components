@@ -10,3 +10,5 @@ List of material ui components for react
 ![fullscreen dialog for material ui](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog/raw/master/demo.gif)
 ## 🖥 [Fullscreen Dialog](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog)
 
+![upload component for material ui](https://github.com/corpix/material-ui-upload/raw/master/screenshot-upload-preview-with-pictures.png)
+## ⬆️ [Upload](https://github.com/corpix/material-ui-upload)
